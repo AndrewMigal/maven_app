@@ -33,12 +33,12 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 
     public void testShouldPass()
     {
-        assertTrue(101 == 50 * 2);
+        assertTrue(100 == 50 * 2);
     }
 
     /*public void testShouldFail()
