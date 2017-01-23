@@ -38,7 +38,7 @@ public class AppTest
 
     public void testShouldPass()
     {
-        assertTrue(100 == 50 * 2);
+        assertTrue(101 == 50 * 2);
     }
 
     /*public void testShouldFail()
